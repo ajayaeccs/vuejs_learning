@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Aj",
+      "email": "ff",
+      "password": "gdg",
+      "contact": "fgdg",
+      "id": 1
+    },
+    {
+      "name": "Aj",
+      "email": "ff",
+      "password": "gdg",
+      "contact": "fgdg",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "contact": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "contact": "",
+      "id": 4
+    },
+    {
+      "name": "Ajay Srivastava",
+      "email": "ajayaeccs@gmail.com",
+      "password": "mayank06",
+      "contact": "9004558830",
+      "id": 6
+    },
+    {
+      "name": "Samriddhi",
+      "email": "nandinisri001@gmail.com",
+      "password": "mayank06",
+      "contact": "8956132570",
+      "id": 7
+    },
+    {
+      "name": "Samriddhi",
+      "email": "nandinisri001@gmail.com",
+      "password": "mayank06",
+      "contact": "8956132570",
+      "id": 8
+    },
+    {
+      "name": "Monu",
+      "email": "abc@gmail.com",
+      "password": "mayank06",
+      "contact": "076988568",
+      "id": 9
+    },
+    {
+      "name": "Monu",
+      "email": "abc@gmail.com",
+      "password": "mayank06",
+      "contact": "076988568",
+      "id": 10
+    }
+  ]
+}
